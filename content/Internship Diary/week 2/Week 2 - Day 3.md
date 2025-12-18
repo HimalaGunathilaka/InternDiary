@@ -85,3 +85,4 @@ ls -l /dev/ttyUSB0
 - Make blocking url configurable.
 - Add a meme when you try to deactivate the before the cool off time.
 - Fix the cool off time for ESP32.
+- Block website when already on that page.
