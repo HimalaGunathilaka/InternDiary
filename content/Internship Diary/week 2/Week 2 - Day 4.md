@@ -74,8 +74,12 @@ arrya = [1, 2, 3]
 
 
 ---
-# Todo and bugs
-- Image showing logic issue.
-- ESP32 and popup doesn't keep constant connection.
-- Need formal specification on number of LEDs and Number of button press.
-- ESP32 doesn't cause meme to popup
+>[!note] Todos and bugs
+>- Image showing logic issue.
+>- ESP32 and popup doesn't keep constant connection.
+>- <span style="color:red">Need formal specification on number of LEDs and Number of button press. Reset time.</span>
+>- ESP32 doesn't cause meme to popup
+>- Icon for the extension
+
+
+
