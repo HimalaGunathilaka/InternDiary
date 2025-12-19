@@ -93,4 +93,10 @@ WebSockets on ESP32 are like a bicycle:
 - Bugs with appearing of meme.
 
 
+# Progress video
+
+https://drive.google.com/file/d/1fNveHbOa1TedHp3y_9ESkwWhWqCE8Lzm/view?usp=sharing
+# Demo video
+
+https://drive.google.com/file/d/1ppgbfz9_7kiX3m76FZ6CApZSEAdYQwF2/view?usp=sharing
 
