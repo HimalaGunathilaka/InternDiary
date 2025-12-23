@@ -34,6 +34,11 @@
 - [x] Update add url to capture the home website.
 - [ ] Put a icon on extension.
 
+# Issues and todo
+- Improve add url button behavior. 
+- Blocking the website just after pressing the button.
 
 # Doubts
-- 
+- ==How should the UX for the url add button should works out.==
+- Formal specification of number of LEDs, number of focus button presses per day, cool off time delay (for now 1 minute)
+- Does the blocking mechanism works for desktop apps as well. (Like youtube app in windows)
