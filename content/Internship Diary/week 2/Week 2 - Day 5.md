@@ -1,4 +1,4 @@
-# Wesocketing technicle details
+# Websocketing technical details
 ## 1. WebSockets must be polled frequently
 - WebSockets are NOT interrupt-based
 - `client.poll()` must run many times per second
