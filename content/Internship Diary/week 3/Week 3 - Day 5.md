@@ -16,6 +16,15 @@ Chrome uses your extension icon in **different UI contexts**, and each one expec
 |**128×128**|Chrome Web Store, large displays, details view|
 
 ---
+
+# Docker notes
+```bash
+docker compose up -d
+```
+
+- `docker compose` ---> Read compose.yml or docker-compose.yml in current directory.
+- `up` ----> Create and start everything defined in that file.
+- `-d` ---> Run in the background. (detached)
 # Setting up mqtt
 - From https://support.atmotube.com/en/articles/10449916-setting-up-a-local-mqtt-environment
 ```bash
@@ -52,3 +61,7 @@ mosquitto_pub -h localhost -p 1883 -t test/topic -m "AUTH WORKS" -u USERNAME -P 
 - `manifest.json` does not like when packages are imported. Need to pack the packages and upload it.
 - So far mqtt.js fail. (suspect inbuilt running eval causing the manifest to hault the script). Need to check with paho for JS as well. (paho and mqtt.js are two ways to get mqtt on JS)
 - Formal specification of the system.
+
+---
+# Week 3
+https://drive.google.com/file/d/1EGu7e108d81hMipUuOK_YrHq_wLSMUe3/view?usp=sharing
