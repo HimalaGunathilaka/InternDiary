@@ -46,12 +46,12 @@ docker exec -it <container_id_or_name> /bin/sh
 >- Reset time doesn't works. 
 
 >[!abstract] Assign works
-8 led --> Day
-synchronization ---- between extension (not critical)
-sync total accumulated time and display it
-add , remove should be sperated
-enclosure ideas --> reactive to user
-display total accumulated time on hardware display perday
-configure username and password for Wifi----else
-focusMode on --> (red light) else (green light)
-identify requirement for publishing
+> - [ ] 8 led --> Day
+> - [ ] synchronization ---- between extension (not critical)
+> - [x] sync total accumulated time and display it
+> - [ ] add , remove should be sperated
+> - [ ] enclosure ideas --> reactive to user
+> - [x] display total accumulated time on hardware display perday
+> - [ ] configure username and password for Wifi----else
+> - [ ] focusMode on --> (red light) else (green light)
+> - [ ] identify requirement for publishing

@@ -32,7 +32,7 @@
 # Goals
 - [x] Architecture design for multiple device synchronization.
 - [x] Update add url to capture the home website.
-- [ ] Put a icon on extension.
+- [x] Put a icon on extension.
 
 # Issues and todo
 - Improve add url button behavior. 
