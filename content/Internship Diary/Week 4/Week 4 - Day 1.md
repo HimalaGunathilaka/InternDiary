@@ -26,7 +26,8 @@ Developer: Reload Window
 	- 1883 → embedded / IoT devices (ESP32, sensors)
 	- 9001 → high-level applications / web / extensions
 - Some definition says MQTT need two ports to provide unecrypted data and secure (TLS) data.
-
+## KeepAlive mechanism
+- You can set a keep alive mechanism ---> Client send `PINGREQ` ------> A PINGRESP get received.
 
 ---
 # Docker 

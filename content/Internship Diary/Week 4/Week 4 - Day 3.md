@@ -52,10 +52,6 @@ chrome.storage.local.get("block", (data) => {
 - https://www.reddit.com/r/SideProject/comments/1mpby7n/im_making_an_app_that_blocks_social_media_until/
 - https://www.reddit.com/r/dumbphones/comments/1q081me/has_anyone_figured_out_a_way_to_break_the_tiktok/
 
-## Ideas
-- Reminding your self you have some work now.
-- Setting up goals like a todo list.
-
 ---
 
 >[!abstract] Assign works
@@ -68,3 +64,6 @@ chrome.storage.local.get("block", (data) => {
 > - [ ] configure username and password for Wifi----else
 > - [ ] focusMode on --> (red light) else (green light)
 > - [ ] identify requirement for publishing
+> - [ ] Block user from changing block list when focusMode is on
+> - [ ] Go with image color pallet
+
