@@ -61,7 +61,7 @@ chrome.storage.local.get("block", (data) => {
 > - [ ] add , remove should be sperated
 > - [ ] enclosure ideas --> reactive to user
 > - [x] display total accumulated time on hardware display perday
-> - [ ] configure username and password for Wifi----else
+> - [x] configure username and password for Wifi----else
 > - [ ] focusMode on --> (red light) else (green light)
 > - [ ] identify requirement for publishing
 > - [ ] Block user from changing block list when focusMode is on
