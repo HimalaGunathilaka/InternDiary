@@ -46,7 +46,7 @@ pio run --target erase
 # Video
 https://drive.google.com/file/d/1alGyg_sBHu5qTdBq1e87zfF5wVXLSptI/view?usp=sharing
 
-
+---
 
 >[!abstract] Assign works
 > - [ ] 8 led --> Day
@@ -60,6 +60,6 @@ https://drive.google.com/file/d/1alGyg_sBHu5qTdBq1e87zfF5wVXLSptI/view?usp=shari
 > - [ ] identify requirement for publishing
 > - [ ] Block user from changing block list when focusMode is on
 > - [ ] Go with image color pallet
-> - [ ] Remove website url when clicking on the icon and remove the icon as well.
+> - [ ] Remove website url when clicking on the icon and remove the icon as well
 
 
