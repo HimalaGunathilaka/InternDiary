@@ -1,3 +1,5 @@
+# Java script
+  
  ```js
   // -------------------- Redirect logic --------------------
 async function enableRedirectRules() {
@@ -26,7 +28,8 @@ async function enableRedirectRules() {
   // and
   declarativeNetRequest
   ```
-  - only affects network requests in general. Therefor they can't check the already existing site.  
+  - only affects network requests in general. Therefor they can't check the already existing site.
+
 
 | Scenerio                                                    | What happens       |
 | ----------------------------------------------------------- | ------------------ |
