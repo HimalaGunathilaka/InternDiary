@@ -28,6 +28,11 @@ pip install esptool
 python -m esptool --chip esp32 --port YOUR_PORT_NAME erase_flash
 ```
 
+- To get the port name
+```bash
+ls /dev/ttyUSB*
+```
+
 or
 ```bash
 pio run --target erase
