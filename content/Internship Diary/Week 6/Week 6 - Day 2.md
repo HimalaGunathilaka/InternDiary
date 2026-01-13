@@ -12,3 +12,6 @@
 # node-cron
 - https://nodecron.com/getting-started.html
 
+---
+# Progress video
+- https://drive.google.com/file/d/1pxuZEme2HmLbdXC1Xg2-4sXhSUrusyV9/view?usp=sharing

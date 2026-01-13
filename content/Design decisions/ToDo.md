@@ -4,19 +4,17 @@
 > - [ ] block user from changing block list when focusMode is on
 > - [ ] go with image color palette
 > - [ ] remove website URL when clicking on the icon and remove the icon as well
-> - [x] 25 minutes for one session *
 > - [ ] show celebration after one session
-> - [ ] bottom must display total accumulated time *
 > - [ ] store accumulated total time for each day
+> - [ ] After 25 minutes, the circular progress bar is filled. But the timer would exceed that. Should it be fixed?
+> - [ ] <span style="color:rgb(240, 0, 0)">Some time extensive use of the redirecting tool cause site like youtube to auto redirect them selves even if they aren't being block. (Encountered in Edge sometimes.)</span>
 
 ---
 > [!abstract] Back end
-> - [ ] IP needs to be fixed
+> - [ ] IP needs to be fixed ---> Decided not use it need to discuss
 > - [ ] 1 minute break 
 
 
 ---
 > [!abstract] Hardware
-> - [ ] display total accumulated time on hardware display per day
-> - [x] MQTT details should be saved and retried
->  - [ ] If reconnection fails after some time, publish the page back vs having a physical button
+>  - [ ] If reconnection of MQTT fails after some time, publish the page back vs having a physical indicators and a button
