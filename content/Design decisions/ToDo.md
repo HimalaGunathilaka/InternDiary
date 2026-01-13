@@ -12,11 +12,11 @@
 ---
 > [!abstract] Back end
 > - [ ] IP needs to be fixed
-> - [ ] 1 minute break * (tomorrow demo)
+> - [ ] 1 minute break 
+
 
 ---
 > [!abstract] Hardware
 > - [ ] display total accumulated time on hardware display per day
-> - [ ] MQTT details should be saved and retried
-> - [ ] MQTT static page button should submit the details (not the physical button)
->   - [ ] If reconnection fails after some time, publish the page back vs having a physical button
+> - [x] MQTT details should be saved and retried
+>  - [ ] If reconnection fails after some time, publish the page back vs having a physical button
