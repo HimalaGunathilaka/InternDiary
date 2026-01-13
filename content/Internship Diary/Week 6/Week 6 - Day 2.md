@@ -2,6 +2,7 @@
 > - MQTT configuration details are now being saved between resets and power offs.
 > - A cron job similar library (node-cron) was implemented to reset the total time and to save up the date and time of the total time in mongodb.
 > - Updated [[Decisions#Static IPs|Decisions / Static IPs]].
+> - Updated [[ToDo]]
 
 ---
 # preference.h <---- A file management library
