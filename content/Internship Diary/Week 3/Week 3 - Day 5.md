@@ -4,7 +4,7 @@
 
 ---
 
-# Adding a icon to extension
+# [[Anchors#Chromium|Adding a icon to extension]]
 - Following should be added to the manifest.json 
 Chrome uses your extension icon in **different UI contexts**, and each one expects a different size for sharp rendering.
 
@@ -17,7 +17,7 @@ Chrome uses your extension icon in **different UI contexts**, and each one expec
 
 ---
 
-# Docker notes
+# [[Anchors#Docker|Docker notes]]
 ```bash
 docker compose up -d
 ```
@@ -25,7 +25,7 @@ docker compose up -d
 - `docker compose` ---> Read compose.yml or docker-compose.yml in current directory.
 - `up` ----> Create and start everything defined in that file.
 - `-d` ---> Run in the background. (detached)
-# Setting up mqtt
+# [[Anchors#MQTT|Setting up mqtt]]
 - From https://support.atmotube.com/en/articles/10449916-setting-up-a-local-mqtt-environment
 ```bash
 docker run -it -d --name mqtt -p 1883:1883 -p 9001:9001 -v /mosquitto/mosquitto.conf:/mosquitto/config/mosquitto.conf eclipse-mosquitto
@@ -44,14 +44,14 @@ mosquitto_pub -h localhost -p 1883 -t test/topic -m "AUTH WORKS" -u USERNAME -P 
 ```
 - Username in here is for the username set-upped in the configuration.
 
-## MQTT in JS
+## [[Anchors#MQTT|MQTT in JS]]
 - There are two methods
 	- paho by ecplipse (same guys implemented mosquitto)
 	- mqtt.js (more updated)
 - Here chosen mqtt.js since it is updated and suited for advance ui functionalities.
 - mqtt.js provide inbuilt reconnecting capability.
 
-# JS extension
+# [[Anchors#Chromium|JS extension]]
 - Doesnot like imports. The script should contain all. There for use something like webpack to parcel it.
 - There something calle `.cjs` which goes for saying common js file. It useful if you specify all files are ES modules in the `package.json` , but need a file not like that.
 

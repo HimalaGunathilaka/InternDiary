@@ -2,7 +2,7 @@
 > - A button is added which shows whether current active tab's website is on focus list or not. Can add it to list by clicking the button.
 
 ---
-# URLs
+# [[Anchors#Internet|URLs]]
 ![[Pasted image 20251223121821.png]]
 - A URL starts with a protocol that is used to access the resource on the internet. The resource is accessed through the [Domain Name System](https://www.geeksforgeeks.org/system-design/whats-is-domain-name-systemdns/) or DNS. There are multiple protocols avaiable to use like [HTTP](https://www.geeksforgeeks.org/blogs/http-full-form/), [HTTPS](https://www.geeksforgeeks.org/html/explain-working-of-https/), [FTP](https://www.geeksforgeeks.org/computer-science-fundamentals/file-transfer-protocol-ftp/), mailto, [TELNET](https://www.geeksforgeeks.org/computer-networks/introduction-to-telnet/) etc.
 - JS already has a way to extract the domain.

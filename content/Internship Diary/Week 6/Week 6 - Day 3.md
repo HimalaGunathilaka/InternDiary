@@ -5,10 +5,10 @@
 > - Updated [[ToDo]]
 
 ---
-# Using buzzers in ESP32
+# [[Anchors#ESP32|Using buzzers in ESP32]]
 - Used `ledcSetup` 
 ---
-# MQTT online services
+# [[Anchors#MQTT|MQTT online services]]
 - EMQX (Very popular according chatgpt)
 - HiveMQ
 - VerneMQ

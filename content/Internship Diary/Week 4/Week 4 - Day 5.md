@@ -3,7 +3,7 @@
 > - Made a simple web server to capture MQTT details.
 
 
-# WiFi manager
+# [[Anchors#ESP32|WiFi manager]]
 - `When your ESP32 is in STA mode (station mode), it acts like any other device, such as your laptop or smartphone, that wants to connect to an existing Wi-Fi network.`
 - `When your ESP32 is in AP mode (Access point modde), it creates its own Wi-Fi network, assigning it an SSID (the network’s name), a password, and an IP address.`
 - Using [WiFiManger](https://github.com/tzapu/WiFiManager.git) by tzapu.
@@ -21,7 +21,7 @@
 |MQTT connect|Only AFTER WiFi is connected|
 
 ---
-### How to reset a ESP32
+### [[Anchors#ESP32|How to reset a ESP32]]
 ```bash
 pip install esptool
 

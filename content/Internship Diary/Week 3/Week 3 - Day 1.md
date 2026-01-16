@@ -6,7 +6,7 @@
 ---
 - While fixing the bugs so far I have notice common pattern in JS. Its 
 
-  > [!note] JS behavior
+  > [!note] [[Anchors#JavaScript|JS behavior]]
 >- JavaScript is **event-driven** and **asynchronous by design**.
 >- It simplifies **state synchronization** through:
 > 	- event listeners
@@ -24,7 +24,7 @@
 > JavaScript prioritizes **coordination and responsiveness** over raw execution performance.
 
 ---
-# Connecting context between script
+# [[Anchors#JavaScript|Connecting context between script]]
 ```js
 chrome.storage.onChange.addListener((changes, area) =>{
 	if (area !== "local") return;
@@ -43,7 +43,7 @@ chrome.storage.onChange.addListener((changes, area) =>{
 	});
 })
 ```
-### Notes on `chrome.storage.onChanged`
+### [[Anchors#JavaScript|Notes on `chrome.storage.onChanged`]]
 - `onChanged` **does not provide a snapshot of storage**.
 - `changes` contains **only the keys that changed** in that update.
 - Each changed key has the structure:

@@ -5,7 +5,7 @@
 > - Focus mode is synchronized across the browsers.
 > - Make [[ESP32|ESP32]] architecture diagram
 
-# CPP
+# [[Anchors#C++|CPP]]
 - **`strtok`** is a C standard library function used to split a string into tokens using specified delimiters. It modifies the original string by replacing delimiters with the null character (`'\0'`) and returns one token at a time.
 ```cpp
 #include <stdio.h>

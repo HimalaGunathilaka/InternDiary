@@ -4,7 +4,7 @@
 > - Some bugs related to add button were fixed.
 
 ---
-# CSS
+# [[Anchors#CSS|CSS]]
 - Viewport height ----> It’s how tall the screen space is where the webpage is shown (not the whole page, just what you can see).	
 	- `vh` = **viewport height**
 	- `1vh` = **1% of the browser window’s height**
@@ -15,7 +15,7 @@ box-shadow: 6px 6px 10px -1px;
 ```
 - Spread defines how far the shadow expands or contracts from the element’s edges.
 
-# JS usefull
+# [[Anchors#Internet|JS usefull]]
 - To get icons from host urls. Use following favicon based function.
 ```js
 chrome.storage.local.get("block", (data) => {

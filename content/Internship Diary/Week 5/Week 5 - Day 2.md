@@ -3,7 +3,7 @@
 
 ---
 
-## Network Interfaces
+## [[Anchors#Internet|Network Interfaces]]
 
 ```bash
 hostname -I
@@ -18,7 +18,7 @@ hostname -I
 ""
 ```
 ---
-# C++
+# [[Anchors#C++|C++]]
 - "`.c_str()`" ---> A method of "`std::string`" class that returns a "`const char*`" pointer to a null-terminated C-style string.
 - Compare strings --->
 ```cpp

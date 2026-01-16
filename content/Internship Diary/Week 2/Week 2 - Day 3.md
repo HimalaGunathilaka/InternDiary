@@ -6,7 +6,7 @@
 - URLs are not select-able only hard coded.
 - ESP32 button cool off has not yet built.
 
-# PlatformIO issue with Linux
+# [[Anchors#PlatformIO|PlatformIO issue with Linux]]
 - If vscode extension is stuck on installing or initializing and asking for python intrepreter install following.
 ```bash
 sudo apt install python3-venv
@@ -23,7 +23,7 @@ sudo apt install python3-venv
 
 <div style="page-break-before: always;"></div>
 
-## If uploading didn't worked due to permission error
+## [[Anchors#PlatformIO|If uploading didn't worked due to permission error]]
 ```bash
 newgrp dialout
 sudo usermod -aG dialout $USER

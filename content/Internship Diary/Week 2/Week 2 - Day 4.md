@@ -1,4 +1,4 @@
-# Java script
+# [[Anchors#JavaScript|Java script]]
   
  ```js
   // -------------------- Redirect logic --------------------

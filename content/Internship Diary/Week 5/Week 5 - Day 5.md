@@ -8,7 +8,7 @@
 ![[Pasted image 20260109173800.png]]
 
 ---
-# Linux stuff
+# [[Anchors#Linux|Linux stuff]]
 - `wget`  ----> A powerful non interactive command-line utility for downloading files from the web using HTTP, HTTPS and FTP.
 - To find the operating system
 ```bash
@@ -24,7 +24,7 @@ Codename:	noble
 //
 ```
 ---
-# Node js
+# [[Anchors#Node|Node js]]
 - First initialize the directory to set up `packge.json`
 ```bash
 npm init -y
@@ -34,7 +34,7 @@ npm init -y
 - **`package.json`** ---> Node.js project's metadata and general dependancies.
 - **`package-lock.json`** -----> Locks the exact installed version of every dependency to ensure consistent and reproducible installs across different environments.
 ---
-# Mongodb
+# [[Anchors#MongoDB|Mongodb]]
 - Recently found vulnerability 
 	```lua
 	MongoDB
