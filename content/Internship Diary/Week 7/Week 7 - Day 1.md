@@ -3,7 +3,6 @@
 > - Made a confetti celebration when one session completes in the popup.
 > - The server will fetch the total accumulated time of the date by using Sri Lankan mid night for now.
 > - Each time session completes it will increment number of sessions complete within that day in the database.
-> - Made a diagram to display each [[HighLevel|MQTT topic]]
 
 
 ---
