@@ -1,6 +1,7 @@
 > [!success] Report
 > - Change the color pallet to much green based pallet.
 > - Studied about uploading extensions to chrome web store.
+> - Fixed a bug by blocking remove urls when clicking on icons when focus mode is on.
 
 ---
 
