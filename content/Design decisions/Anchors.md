@@ -1,27 +1,27 @@
-# Internet
+# [[Anchors|Internet]]
 ---
-# Website
+# [[Anchors|Website]]
 ---
-# JavaScript
+# [[Anchors|JavaScript]]
 ---
-# Node
+# [[Anchors|Node]]
 ---
-# CSS
+# [[Anchors|CSS]]
 ---
-# Linux
+# [[Anchors|Linux]]
 ---
-# Docker
+# [[Anchors|Docker]]
 ---
-# MQTT
+# [[Anchors|MQTT]]
 ---
-# PlatformIO
+# [[Anchors|PlatformIO]]
 ---
-# VScode
+# [[Anchors|VScode]]
 ---
-# Chromium
+# [[Anchors|Chromium]]
 ---
-# ESP32
+# [[Anchors|ESP32]]
 ---
-# C++
+# [[Anchors|C++]]
 ---
-# MongoDB
+# [[Anchors|MongoDB]]

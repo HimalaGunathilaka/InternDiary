@@ -52,7 +52,7 @@ mosquitto_pub -h localhost -p 1883 -t test/topic -m "AUTH WORKS" -u USERNAME -P 
 - mqtt.js provide inbuilt reconnecting capability.
 
 # [[Anchors#Chromium|JS extension]]
-- Doesnot like imports. The script should contain all. There for use something like webpack to parcel it.
+- Does not like imports. The script should contain all. There for use something like webpack to parcel it.
 - There something calle `.cjs` which goes for saying common js file. It useful if you specify all files are ES modules in the `package.json` , but need a file not like that.
 
 ---
