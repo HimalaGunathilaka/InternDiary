@@ -3,7 +3,8 @@
 
 ---
 > [!abstract]
-> - [ ] Extension pallet should be in the page
-> - [ ] Login register page || Guest mode 
 > - [ ] Use https instead of http
+> - [ ] Device id (6 digit) / Has to have the capability to initialize MQTT connection? or something else
+
+
 
