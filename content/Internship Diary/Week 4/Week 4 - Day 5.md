@@ -6,7 +6,7 @@
 # [[Anchors#ESP32|WiFi manager]]
 - `When your ESP32 is in STA mode (station mode), it acts like any other device, such as your laptop or smartphone, that wants to connect to an existing Wi-Fi network.`
 - `When your ESP32 is in AP mode (Access point modde), it creates its own Wi-Fi network, assigning it an SSID (the network’s name), a password, and an IP address.`
-- Using [WiFiManger](https://github.com/tzapu/WiFiManager.git) by tzapu.
+- Using [WiFiManager](https://github.com/tzapu/WiFiManager.git) by tzapu.
 
 > [!note] Process
 > 1. ESP starts.
