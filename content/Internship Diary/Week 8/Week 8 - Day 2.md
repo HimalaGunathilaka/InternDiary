@@ -31,7 +31,7 @@
 - **Market price found:** Not itemized  
 - **Estimated cost** : Rs 400
 ### Summary
-$$\text{Estimated cost} = \text{Rs 3,834}$$
+$$\text{Estimated cost} = \text{Rs 3, 834}\pm \text{Production cost}$$
 
 ---
 # Docker compose
