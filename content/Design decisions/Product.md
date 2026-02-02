@@ -6,4 +6,4 @@
 - Mongodb (or any db) may need increase in storage. (Not critical)
 
 # After selling
-![[Pasted image 20260129101904.png]]
+![[Pasted image 20260202193745.png]]

@@ -27,3 +27,21 @@
 - Or if the total time is greater than the one received through mqtt publish it back.
 
 ---
+# 3D printing - Rysera
+- For any **normal printing** we can use the website it self ------> [Rysera](https://3dprinting.rysera.com/)
+	- The website offer service to measure the cost of the model as well. (Not suited for complex models yet.)
+- For any __special print or bulk orders can be discussed personally__.
+-  **Custom design service** --->
+	- Need to provide sketches, components to be included (with the excat measurements and sizes.) or the idea of the project.
+- **Materials they print** ---> *PLA, PLA+, PETG, ABS, and TPU (flexible)* 
+	- Provide recommendation for project requirement.
+	- Recommended material (For desktop material) ------> PLA (low cost)
+- **Location** -------> *Moratuwa, Sri Lanka at 17/6 Ashoka place, P B Alwis Perera Mawatha*
+- **Software** ------> *Solid works or Fusion*
+- **File format** -------> STL, OBJ, 3MF, and STEP files. Anything outside of these need to contact and discuss with them.
+- For **post processing** --->
+	- For external textures they provide `Fuzzy skin`
+		![[sk5vraum98h21.jpg]]
+	- All supports are removed.
+	- For custom textures need to specify before hand
+	- For painting one or two would be fine. But bulk orders would not, since they don't have specialized painters yet. They'll be not sure about the consistency across multiple products.
