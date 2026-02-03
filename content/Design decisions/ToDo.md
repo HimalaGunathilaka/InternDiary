@@ -4,9 +4,9 @@
 ---
 > [!abstract] General
 > - [ ] Use https instead of http
-> - [x] Device id (6 digit) / Has to have the capability to initialize MQTT connection? or something else
-> - [ ] discuss on 3d printing
-> - [ ] Check on addressible leds
+> - [ ] can have multiple device ids
+> - [ ] MQTT broker address should be configurable for extension and esp32
+> - [ ] 
 
 
 
