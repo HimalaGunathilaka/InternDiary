@@ -5,8 +5,11 @@
 > [!abstract] General
 > - [ ] Use https instead of http
 > - [ ] can have multiple device ids
-> - [ ] MQTT broker address should be configurable for extension and esp32
-> - [ ] 
+> - [ ] Possible designs for the physical product
+> 	- Battery power or Direct power
+> - [ ]  Check with a led display
+
+
 
 
 
