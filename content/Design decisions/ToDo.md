@@ -1,5 +1,5 @@
 > [!abstract] Front end
-> - [ ] identify requirement for publishing
+> - [ ] identify requirement for publishing extension
 
 ---
 > [!abstract] General
@@ -7,7 +7,7 @@
 > - [ ] can have multiple device ids
 > - [ ] Possible designs for the physical product
 > 	- Battery power or Direct power
-> - [ ]  Check with a led display
+
 
 
 
