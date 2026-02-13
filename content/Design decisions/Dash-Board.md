@@ -1,0 +1,4 @@
+- ==seperate repo ==-> simple dash board. -----> display the message that was received by the esp32. -----> 
+	- Front end dashboard send message ---> (limit characters 20)
+	- first receive message ---> Buzzer rings ----> button press to show the message in the oled ----> button press to ack knowledge 
+		- If button was not pressed send back the message again and again
