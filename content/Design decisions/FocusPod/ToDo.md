@@ -6,6 +6,7 @@
 > [!abstract] General
 > - [ ] Use https instead of http
 > - [ ] can have multiple device ids ---------> For now currently used device id will replace the one in database.
+> - [ ] Password security more tight.
 
 ---
 > [!abstract] Hardware
